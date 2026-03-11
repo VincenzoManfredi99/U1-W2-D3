@@ -136,9 +136,6 @@ let eyeColor = {
     blueGray: [],
 }
 
-//Esercizio 5
-
-
 
 //Esercizio 6
 
@@ -189,16 +186,6 @@ for (i = 0; i < starWarsCharacters.length; i++){
 
 //Esercizio 9
 
-console.log(charactersNames.length)
-
-for (i = 0; i < starWarsCharacters.length; i++){
-    if(starWarsCharacters[i].gender === 'female'){
-        charactersNames.splice(i, 1)
-        i--
-    }
-}
-
-console.log(charactersNames.length)
 
 
 
