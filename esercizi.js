@@ -128,7 +128,7 @@ console.log(femaleCharacters)
 
 //Esercizio 4
 
-let eyeColor2 = {
+let eyeColor = {
     blue: [],
     yellow: [],
     brown: [],
@@ -136,12 +136,9 @@ let eyeColor2 = {
     blueGray: [],
 }
 
-/*Esercizio 5
-
-switch (starWarsCharacters[0].eye_color === blue)
+//Esercizio 5
 
 
-console.log(starWarsCharacters[0].eye_color) */
 
 //Esercizio 6
 
